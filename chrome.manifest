@@ -1,0 +1,5 @@
+content   convertChar                content/
+skin      convertChar  classic/1.0   skin/
+locale    convertChar  en-US         locale/en-US/
+
+overlay chrome://browser/content/browser.xul  chrome://convertChar/content/convertChar.xul
